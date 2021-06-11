@@ -1,0 +1,8 @@
+/.env
+/.vscode
+/config/*
+/data/*
+/logs/*
+/www/env.php
+.DS_Store
+/bin
